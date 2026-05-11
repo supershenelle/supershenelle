@@ -1,8 +1,63 @@
-- 👋 Hi, I’m @supershenelle
-- 📫 How to reach me : 
-- 😄 Pronouns: she/her
+# Hi, I'm Shenelle! 👋
 
-<!---
-supershenelle/supershenelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Bachelor of Science in Computer Science** student majoring in **Software Technology** at **De La Salle University (DLSU)**. I'm passionate about building things from scratch, learning new technologies, and growing as a developer — one project and one commit at a time.
+
+---
+
+## 🎓 About Me
+
+- 🏫 **University:** De La Salle University, Manila
+- 📚 **Program:** BSCS — Software Technology (ST)
+- 💡 **Interests:** Software development, problem solving, and continuous learning
+- 🌱 **Currently learning:** Java through [Exercism](https://exercism.org/profiles/supershenelle)
+
+---
+
+## 🛠️ Languages & Technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 🍽️ Food Calorie & Recipe Manager
+> **Language:** C &nbsp;|&nbsp; **Course:** Machine Project &nbsp;|&nbsp; **Section:** S11
+
+A console-based menu-driven C program for managing food calorie entries and recipes. Features include adding and modifying recipes, generating shopping lists, calculating recipe calories, and recommending meals based on a calorie target. Built with a login system supporting Update and Access modes.
+
+**Collaborators:** Marco Yatco
+
+---
+
+### 💥 Chain Reaction Game
+> **Language:** C &nbsp;|&nbsp; **Section:** S15 / S05
+
+A two-player console-based strategy game played on a 3×3 grid. Players take turns placing and expanding pieces; stacking a piece twice triggers a chain reaction that captures adjacent cells. The player with the most pieces when the game ends wins.
+
+**Collaborators:** Emmanuel Gagasa, Sabina Fornoles
+
+---
+
+### ☕ Exercism — Java Learning Journey
+> **Language:** Java &nbsp;|&nbsp; **Platform:** [Exercism](https://exercism.org/tracks/java)
+
+A structured, hands-on Java learning journey through Exercism — solving exercises, building fluency, and documenting concepts learned along the way.
+
+🔗 [View Repository](https://github.com/supershenelle/exercism)
+
+---
+
+## 📊 GitHub Stats
+
+![Shenelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supershenelle&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supershenelle&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-supershenelle-181717?style=for-the-badge&logo=github)](https://github.com/supershenelle)
+[![Exercism](https://img.shields.io/badge/Exercism-supershenelle-009CAB?style=for-the-badge&logo=exercism)](https://exercism.org/profiles/supershenelle)
