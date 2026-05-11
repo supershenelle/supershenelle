@@ -1,6 +1,6 @@
 # Hi, I'm Shenelle! 👋
 
-I'm a **Bachelor of Science in Computer Science** student majoring in **Software Technology** at **De La Salle University (DLSU)**. I'm passionate about building things from scratch, learning new technologies, and growing as a developer — one project and one commit at a time.
+I'm a **Bachelor of Science in Computer Science** student majoring in **Software Technology** at **De La Salle University (DLSU)**. 
 
 ---
 
@@ -50,14 +50,11 @@ A structured, hands-on Java learning journey through Exercism — solving exerci
 
 ---
 
-## 📊 GitHub Stats
-
-![Shenelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supershenelle&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supershenelle&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-supershenelle-181717?style=for-the-badge&logo=github)](https://github.com/supershenelle)
 [![Exercism](https://img.shields.io/badge/Exercism-supershenelle-009CAB?style=for-the-badge&logo=exercism)](https://exercism.org/profiles/supershenelle)
+
+---
+
+<p align="center"><em>Always learning, always building. 🚀</em></p>
