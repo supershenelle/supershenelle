@@ -48,19 +48,10 @@ A structured, hands-on Java learning journey through Exercism — solving exerci
 
 🔗 [View Repository](https://github.com/supershenelle/exercism)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supershenelle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Shenelle's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supershenelle&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
-</p>
 
 ---
 
 ## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-supershenelle-181717?style=for-the-badge&logo=github)](https://github.com/supershenelle)
-[![Exercism](https://img.shields.io/badge/Exercism-supershenelle-009CAB?style=for-the-badge&logo=exercism)](https://exercism.org/profiles/supershenelle)
+[![LinkedIn](https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png)](https://www.linkedin.com/in/shenelle-andrea-nono-30b02a367)
