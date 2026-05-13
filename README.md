@@ -54,4 +54,4 @@ A structured, hands-on Java learning journey through Exercism — solving exerci
 ## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-supershenelle-181717?style=for-the-badge&logo=github)](https://github.com/supershenelle)
-[![LinkedIn](https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png)](https://www.linkedin.com/in/shenelle-andrea-nono-30b02a367)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shenelle-andrea-nono-30b02a367)
