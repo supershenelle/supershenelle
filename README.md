@@ -26,16 +26,12 @@ I'm a **Bachelor of Science in Computer Science** student majoring in **Software
 ### 🍽️ Food Calorie & Recipe Manager
 > **Language:** C &nbsp;|&nbsp; **Course:** Machine Project &nbsp;|&nbsp; **Section:** S11
 
-A console-based menu-driven C program for managing food calorie entries and recipes. Features include adding and modifying recipes, generating shopping lists, calculating recipe calories, and recommending meals based on a calorie target. Built with a login system supporting Update and Access modes.
-
 **Collaborators:** Marco Yatco
 
 ---
 
 ### 💥 Chain Reaction Game
 > **Language:** C &nbsp;|&nbsp; **Section:** S15 / S05
-
-A two-player console-based strategy game played on a 3×3 grid. Players take turns placing and expanding pieces; stacking a piece twice triggers a chain reaction that captures adjacent cells. The player with the most pieces when the game ends wins.
 
 **Collaborators:** Emmanuel Gagasa, Sabina Fornoles
 
@@ -44,10 +40,14 @@ A two-player console-based strategy game played on a 3×3 grid. Players take tur
 ### ☕ Exercism — Java Learning Journey
 > **Language:** Java &nbsp;|&nbsp; **Platform:** [Exercism](https://exercism.org/tracks/java)
 
-A structured, hands-on Java learning journey through Exercism — solving exercises, building fluency, and documenting concepts learned along the way.
-
 🔗 [View Repository](https://github.com/supershenelle/exercism)
 
+---
+
+### 🎖 Coddy & CCPROG3 Java Exercises
+> **Language:** Java and C &nbsp;|&nbsp; **Platform:** [Coddy](coddy.tech)
+
+🔗 [View Repository](https://github.com/supershenelle/Coddy-Java-Course)
 
 ---
 
