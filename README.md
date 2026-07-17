@@ -13,41 +13,7 @@ I'm a **Bachelor of Science in Computer Science** student majoring in **Software
 
 ---
 
-## 🛠️ Languages & Technologies
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## 📂 Projects
-
-### 🍽️ Food Calorie & Recipe Manager
-> **Language:** C &nbsp;|&nbsp; **Course:** Machine Project &nbsp;|&nbsp; **Section:** S11
-
-**Collaborators:** Marco Yatco
-
----
-
-### 💥 Chain Reaction Game
-> **Language:** C &nbsp;|&nbsp; **Section:** S15 / S05
-
-**Collaborators:** Emmanuel Gagasa, Sabina Fornoles
-
----
-
-### ☕ Exercism — Java Learning Journey
-> **Language:** Java &nbsp;|&nbsp; **Platform:** [Exercism](https://exercism.org/tracks/java)
-
-🔗 [View Repository](https://github.com/supershenelle/exercism)
-
----
-
-### 🎖 Coddy & CCPROG3 Java Exercises
-> **Language:** Java and C &nbsp;|&nbsp; **Platform:** [Coddy](coddy.tech)
-
-🔗 [View Repository](https://github.com/supershenelle/Coddy-Java-Course)
+![Metrics](https://metrics.lecoq.io/supershenelle?template=classic&lines=1&isocalendar=1&languages=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&projects=false&projects.limit=5&projects.descriptions=true&config.timezone=Asia%2FManila)
 
 ---
 
